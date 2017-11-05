@@ -88,11 +88,3 @@
     
   </table>
 </div>
-<div class="post_region_message_wrapper">
-  <div id="endorse_text"></div>
-  
-  
-  
-
-      </div>
-    </div>
